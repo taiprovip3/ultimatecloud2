@@ -1,5 +1,6 @@
 import './App.css';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+//react-router-dom, antd, reactHook (useState, useEffect), 
 import StartPage from './Components/StartPage';
 import RegisterPage from './Components/RegisterPage';
 import LoginPage from './Components/LoginPage';
